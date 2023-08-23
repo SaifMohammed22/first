@@ -1,5 +1,5 @@
-scores = [200, 394, 438, 60]
+scores = [299, 394, 438, 60]
 high_score = [score for score in scores if score <= 300]
 
-print('saif')
+print('saifmm')
 print(high_score)
